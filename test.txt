@@ -13,3 +13,4 @@ and new content
 
 I have got a dog!
 ----------------
+content for the new branch
